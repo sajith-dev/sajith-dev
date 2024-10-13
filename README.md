@@ -4,7 +4,7 @@ Welcome to my Github profile! I'm a computer science student with a keen interes
 
 ## 🌱 About Me
 
-- 📚 Current learning: p5.js
+- 📚 Currently learning: p5.js
 - 🎨 Hobbies: Painting, stamp collecting, reading
 
 ## 💼 Technologies & Tools
